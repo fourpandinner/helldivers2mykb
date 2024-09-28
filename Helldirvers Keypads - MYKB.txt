@@ -1,0 +1,215 @@
+LIFT-850 Jump Pack:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"]]
+
+B-1 Supply Pack:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"]]
+
+"Guard Dog" Rover
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"]]
+
+SH-20 Ballistic Shield Backpack:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"]]
+
+SH-32 Shield Generator Pack:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"]]
+
+AX/AR-23 "Guard Dog":
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"]]
+
+
+
+MG-43 Machine Gun:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"]]
+
+APW-1 Anti-Materiel Rifle:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"]]
+
+M-105 Stalwart:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"]]
+
+EAT-17 Expendable Anti-tank:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"]]
+
+MLS-4X Commando:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"]]
+
+GR-8 Recoilless Rifle:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_A"]]
+
+FLAM-40 Flamethrower:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"]]
+
+AC-8 Autocannon:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"]]
+
+MG-206 Heavy Machine Gun:
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"]]
+
+RS-422 Railgun
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"]]
+
+FAF-14 Spear Launcher
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"]]
+
+GL-21 Grenade Launcher
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"]]
+
+LAS-98 Laser Cannon
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"]]
+
+ARC-3 Arc Thrower
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_A"]]
+
+LAS-99 Quasar Cannon
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"]]
+
+RL-77 Airburst Rocket Launcher
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"]]
+
+EXO-45 Patriot Exosuit
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"]]
+
+EXO-49 Emancipator Exosuit
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"]]
+
+Reinforce
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"]]
+
+SOS Beacon
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"]]
+
+Resupply
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"]]
+
+NUX-223 Hellbomb
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"]]
+
+SSSD Delivery
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"]]
+
+Seismic Probe
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"]]
+
+Upload Data
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"]]
+
+Eagle Rearm
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"]]
+
+SEAF Artillery
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"]]
+
+Super Earth Flag
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"]]
+
+
+
+
+E/MG-101 HMG Emplacement
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_A"]]
+
+FX-12 Shield Generator Relay
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"]]
+
+A/ARC-3 Tesla Tower
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"]]
+
+MD-6 Anti-Personnel Minefield
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"]]
+
+MD-14 Incendiary Mines
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"]]
+
+MD-17 Anti-Tank Mines
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"]]
+
+A/MG-43 Machine Gun Sentry
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"]]
+
+A/G-16 Gatling Sentry
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_A"]]
+
+A/M-12 Mortar Sentry
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"]]
+
+A/AC-8 Autocannon Sentry
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"]]
+
+A/MLS-4X Rocket Sentry
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_A"]]
+
+A/M-23 EMS Mortar Sentry
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"]]
+
+
+
+Orbital Gatling Barrage
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"]]
+
+Orbital Airburst Strike
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"]]
+
+Orbital 120MM HE Barrage
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"]]
+
+Orbital 380MM HE Barrage
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"]]
+
+Orbital Walking Barrage
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"]]
+
+Orbital Laser   
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"]]
+
+Orbital Railcannon Strike
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"]]
+
+Orbital Precision Strike
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"]]]
+
+Orbital Gas Strike
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"]]
+
+Orbital EMS Strike
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_S"]]
+
+Orbital Smoke Strike
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"]]
+
+Orbital Napalm Barrage
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_A"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"]]
+
+Eagle Strafing Run
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_D"]]
+
+Eagle Airstrike
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"]]
+
+Eagle Cluster Bomb
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_D"]]
+
+Eagle Napalm Airstrike
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_W"]]
+
+Eagle Smoke Strike
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_S"]]
+
+Eagle 110MM Rocket Pods
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_A"]]
+
+Eagle 500kg Bomb
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_W"], ["delay", 100], ["tap", "KC_D"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"], ["delay", 100], ["tap", "KC_S"]]
+
+
+
+
+
+
+-------------------------
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"]]
+
+
+
+[["tap", "KC_LCTRL"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"], ["delay", 100], ["tap", "KC_X"]]
+
+
